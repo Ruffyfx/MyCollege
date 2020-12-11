@@ -1,3 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Fjalla+One&family=Langar&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Kanit&display=swap');
+
 /*-----------
 MOBILE FIRST
 ------------*/
@@ -71,6 +74,7 @@ header p {
 	text-align: center;
 	color: white;
 	font-size: 1.6em;
+	font-family: 'Kanit', sans-serif;
 }
 
 #apply-btn {
@@ -132,6 +136,7 @@ header p {
 	font-size: 1.4em;
 	padding: 3% 0;
 	color: white;
+	font-family: 'Fjalla One', sans-serif;
 
 }
 
